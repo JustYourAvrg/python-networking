@@ -22,3 +22,11 @@ the web-servers folder will be a list of web server related projects
 
 **web-servers**
 - Image-Server | 3/2/2024 -> Select an image on your PC and view it on `http://localhost:8080/`
+
+
+# Asycnio-chat | 3/24/2024 | Fourth Project
+ahh this one took me a pretty long time to make, I would of had it done within 3-4 days but
+I was tunnel visioning on certain issues, like an issue that took me 9 days to fix was
+making the 'run_gui' function, I didn't know that tkinters ( customtkinters in my case ) 
+mainloop was conflicting with my server/clients event loop so I had to look that up and find a fix
+good thing I did or I don't think I would have ever finished this one.
